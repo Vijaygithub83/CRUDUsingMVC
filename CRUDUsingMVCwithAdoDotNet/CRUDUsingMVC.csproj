@@ -88,6 +88,7 @@
     <Content Include="Content\Register.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\LoginStyle.css" />
+    <Content Include="DBScripts\02112023_DBScript.sql" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.js" />
